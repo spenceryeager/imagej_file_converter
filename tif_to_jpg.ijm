@@ -1,4 +1,4 @@
-/* ImageJ macro for converting tif files ( other supported ImageJ files) into 
+/* ImageJ macro for converting tif files ( or other supported ImageJ files) into 
 	jpeg for easy uploading. This does not alter the scale of the image. 
 	Directory input and output can be selected, with the output generating
 	an additional folder titled "jpg_convert" */
